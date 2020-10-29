@@ -3,8 +3,8 @@ export default function Footer() {
     <>
       <footer>
         Made with{' '}
-        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> for
-        you
+        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> and
+        love.
       </footer>
       <style jsx>{`
         footer {
