@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:[],"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/projects/ga4":["static\u002Fchunks\u002Fpages\u002Fprojects\u002Fga4.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fprojects\u002Fga4"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

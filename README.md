@@ -23,4 +23,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Edits from base repo
 
-1.
+1. Deleted master branch, setup main and dev.
+2. add next-on-netlify for previews, updated packages.
+3. add a couple folders with pages inside to check GA. (Tracking-ID injected into head post-processing in Netlify UI.)
